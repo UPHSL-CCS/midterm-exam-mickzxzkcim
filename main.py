@@ -4,7 +4,7 @@ import sys
 
 # Global Choices
 PRICES = {
-    "coffee": {"base": 60, "sizes": {"grande": 1.0, "venti": 1.2, "trenta": 1.5}},
+    "coffee": {"base": 60, "sizes": {"small": 1.0, "medium": 1.2, "large": 1.5}},
     "tea": {"base": 50, "sizes": {"small": 1.0, "medium": 1.2, "large": 1.5}},
     "juice": {"base": 70, "sizes": {"small": 1.0, "medium": 1.2, "large": 1.5}},
 }
