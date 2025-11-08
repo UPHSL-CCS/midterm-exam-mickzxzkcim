@@ -102,7 +102,7 @@ def process_orders(order_list: list):
         thread.join() 
 
     print("="*40)
-    print("All orders completed.")
+    print("All orders completed. ദ്ദി/ᐠ - ⩊ -マ.ᐟ")
     print("="*40)
 
 
